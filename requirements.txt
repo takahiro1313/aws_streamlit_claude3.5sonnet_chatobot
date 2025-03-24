@@ -1,0 +1,4 @@
+boto3==1.37.3
+streamlit==1.41.1
+tavily-python==0.5.1
+dotenv==0.9.9
